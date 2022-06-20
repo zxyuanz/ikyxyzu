@@ -36,8 +36,8 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/ikyxyzu"><img src="https://github-readme-stats.vercel.app/api?username=zeeone-ofc&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ikyxyzu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeone-ofc&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/ikyxyzu"><img src="https://github-readme-stats.vercel.app/api?username=ikyxyzu&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ikyxyzu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikyxyzu&theme=radical&layout=compact"></a></p> 
 
 
 <details>
