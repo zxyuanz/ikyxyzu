@@ -19,7 +19,6 @@
   <a href="https://www.replit.com/ikyxyzu"><img src="https://img.shields.io/badge/Replit-%234267B2.svg?&style=for-the-badge&logo=replit&logoColor=white" />
   <a name=ikyxyzu&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/ikyxyzu"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://www.youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=ikyxyzu&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ikyxyzu&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
