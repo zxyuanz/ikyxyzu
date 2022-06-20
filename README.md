@@ -29,7 +29,7 @@
 ### Spotify Playing 🎧
 
 <p align="center">
-  <a href="https://open.spotify.com/track/5rnuitEUjHnjIoYEDY48Ox?si=39C-uB__TASW9NmmaHYnng=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/track/5rnuitEUjHnjIoYEDY48Ox?si=39C-uB__TASW9NmmaHYnng=copy-link" target="_blank"><img src="https://open.spotify.com/track/5rnuitEUjHnjIoYEDY48Ox?si=39C-uB__TASW9NmmaHYnng" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ------
