@@ -2,7 +2,7 @@
 
 <p align="center">
 
-- 👤 My name is Rifky Maulana
+- 👤 My name is Sky
 - 💌 I am 18 years old 
 - 👨‍💻 I am not programmer
 
